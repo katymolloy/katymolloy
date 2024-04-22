@@ -1,4 +1,4 @@
-### Hi there,
+### Hi there 👋,
 # I'm Katy, a full-stack developer in Ontario, Canada
 
 ## About Me
