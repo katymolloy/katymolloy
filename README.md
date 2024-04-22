@@ -2,7 +2,8 @@
 # I'm Katy, a full-stack developer in Ontario, Canada
 
 ## About Me
-I'm a passionate full-stack developer and a recent graduate of Fanshawe's Web Development and Internet Applications program. I have experience with React.js, Angular.ts, Node.js, and am always looking to learn new technologies to expand my knowledge. Right now I'm learning about web sockets and socket.io for my current project, a [real-time message application](https://github.com/katymolloy/chattrbox)!
+I'm a passionate full-stack developer and a recent graduate of Fanshawe's Web Development and Internet Applications program. <br />
+I have experience with React.js, Angular.ts, Node.js, and am always looking to learn new technologies to expand my knowledge. Right now I'm learning about web sockets and socket.io for my current project, a [real-time message application](https://github.com/katymolloy/chattrbox)!
 <br />
 When I'm not coding, I can be found running, cycling, or reading.
 <br />
