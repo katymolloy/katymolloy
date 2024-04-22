@@ -21,9 +21,9 @@ When I'm not coding, I can be found running, cycling, or reading.
 ## GitHub Stats
 <table>
   <tr>
-    <td >
+<!--     <td >
       <img src="https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent" />
-</td>
+</td> -->
     <td >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent" />
 </td>
