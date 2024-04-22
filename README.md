@@ -2,8 +2,11 @@
 # I'm Katy, a full-stack developer in Ontario, Canada
 
 ## About Me
-I'm a full-stack developer and a recent graduate of Fanshawe's Web Development and Internet Applications program. My interests in the web development field change often, but currently I'm learning about web sockets and socket.io.
-Interested in hiring me? Please feel free to contact me at any of the links below!
+I'm a passionate full-stack developer and a recent graduate of Fanshawe's Web Development and Internet Applications program. I have experience with React.js, Angular.ts, Node.js, and am always looking to learn new technologies to expand my knowledge. Right now I'm learning about web sockets and socket.io for my current project, a [real-time message application](https://github.com/katymolloy/chattrbox)!
+<br />
+When I'm not coding, I can be found running, working out, or reading.
+<br />
+**Interested in hiring me? Please feel free to contact me at any of the links below!**
 
 ## Skills
 - **Languages:** JavaScript, TypeScript, SQL, PHP
@@ -16,13 +19,16 @@ Interested in hiring me? Please feel free to contact me at any of the links belo
 - **Email:** [katymolloydev@gmail.com](mailto:katymolloydev@gmail.com)
 
 ## GitHub Stats
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent" />
-  </div>
-<!-- [![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent)](https://github.com/katymolloy/github-readme-stats) -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent" />
-</div>
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent) -->
-</div>
+<table>
+  <tr>
+    <td >
+      <img src="https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent" />
+</td>
+    <td >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent" />
+</td>
+  </tr>
+</table>
+
+## Thanks for stopping by!
+
