@@ -15,6 +15,14 @@ Interested in hiring me? Please feel free to contact me at any of the links belo
 - **LinkedIn:** [Katy Molloy](https://www.linkedin.com/in/katy-molloy/)
 - **Email:** [katymolloydev@gmail.com](mailto:katymolloydev@gmail.com)
 
-[![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent)](https://github.com/katymolloy/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent)
+## GitHub Stats
+<div style="display:flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent" />
+  </div>
+<!-- [![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent)](https://github.com/katymolloy/github-readme-stats) -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent" />
+</div>
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent) -->
+</div>
