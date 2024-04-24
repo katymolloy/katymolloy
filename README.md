@@ -1,7 +1,7 @@
 ### 👋 Hi there,
 # I'm Katy, a full-stack developer in Ontario, Canada
 
-## About Me
+## :blue_heart: About Me
 I'm a passionate full-stack developer and a recent graduate of Fanshawe's Web Development and Internet Applications program. <br />
 I have experience with React.js, Angular.ts, Node.js, and am always looking to learn new technologies to expand my knowledge. Right now I'm learning about web sockets and socket.io for my current project, a [real-time message application](https://github.com/katymolloy/chattrbox)!
 <br />
@@ -10,18 +10,18 @@ When I'm not coding, I can be found running, cycling, or reading.
 <br />
 **Interested in hiring me? Please feel free to contact me at any of the links below!**
 
-## Skills
+## :computer: Skills
 - **Languages:** JavaScript, TypeScript, Node.js, SQL, PHP
 - **Frameworks/Libraries:** React, Angular, Express.js
 - **Tools:** Git, Docker, Postman
 - **Design:** Photoshop, Adobe Illustrator, Figma
 
-## Contact Me
+## :mailbox_with_mail: Contact Me
 - **My portfolio:** [Katy Molloy | Web Developer](https://www.katymolloy.ca) 
 - **My LinkedIn:** [Katy Molloy | LinkedIn](https://www.linkedin.com/in/katy-molloy/)  
 - **Shoot me an email at** [katymolloydev@gmail.com](mailto:katymolloydev@gmail.com)
 
-## GitHub Stats
+## :bar_chart: GitHub Stats
 <table>
   <tr>
 <!--     <td >
@@ -33,5 +33,4 @@ When I'm not coding, I can be found running, cycling, or reading.
   </tr>
 </table>
 
-## Thanks for stopping by!
 
