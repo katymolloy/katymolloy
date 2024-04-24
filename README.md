@@ -7,17 +7,19 @@ I have experience with React.js, Angular.ts, Node.js, and am always looking to l
 <br />
 When I'm not coding, I can be found running, cycling, or reading.
 <br />
+<br />
 **Interested in hiring me? Please feel free to contact me at any of the links below!**
 
 ## Skills
-- **Languages:** JavaScript, TypeScript, SQL, PHP
-- **Frameworks:** React, Angular, Node.js, Express.js
-- **Tools:** Git, Docker, Postman, Figma
+- **Languages:** JavaScript, TypeScript, Node.js, SQL, PHP
+- **Frameworks/Libraries:** React, Angular, Express.js
+- **Tools:** Git, Docker, Postman
+- **Design:** Photoshop, Adobe Illustrator, Figma
 
 ## Contact Me
-- **Portfolio:** [Katy's Portfolio](https://www.katymolloy.ca)
-- **LinkedIn:** [Katy Molloy](https://www.linkedin.com/in/katy-molloy/)
-- **Email:** [katymolloydev@gmail.com](mailto:katymolloydev@gmail.com)
+- **My portfolio:** [Katy Molloy | Web Developer](https://www.katymolloy.ca) 
+- **My LinkedIn:** [Katy Molloy | LinkedIn](https://www.linkedin.com/in/katy-molloy/)  
+- **Shoot me an email at** [katymolloydev@gmail.com](mailto:katymolloydev@gmail.com)
 
 ## GitHub Stats
 <table>
