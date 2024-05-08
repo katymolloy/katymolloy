@@ -11,7 +11,7 @@ When I'm not coding, I can be found running, cycling, or reading.
 **Interested in hiring me? Please feel free to contact me at any of the links below!**
 
 ## :computer: Skills
-- **Languages:** JavaScript, CSS, Sass, HTML, TypeScript, SQL
+- **Languages:** HTML, CSS, Sass, JavaScript, TypeScript, PHP, SQL
 - **Frameworks/Libraries:** React, Angular, Node.js, Express.js, Bootstrap
 - **Databases:** Firestore, MongoDB, MySQL, Oracle
 - **Tools:** Git, Docker, Postman
