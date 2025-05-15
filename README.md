@@ -1,11 +1,11 @@
 ### 👋 Hi there,
-# I'm Katy, a full-stack developer in Ontario, Canada
+# I'm Katy
 
 ## :blue_heart: About Me
-I'm a passionate full-stack developer and a recent graduate of Fanshawe's Web Development and Internet Applications program. <br />
-I have experience with React.js, Angular.ts, Node.js, and am always looking to learn new technologies to expand my knowledge. Right now I'm learning about web sockets and socket.io for my current project, a [real-time message application](https://github.com/katymolloy/chattrbox)!
+I'm a culinary student and a graduate of Fanshawe's Web Development program. Currently coding for fun! <br />
+I have experience with React.js, Angular.ts, Node.js, and am always looking to learn new technologies to expand my knowledge. 
 <br />
-When I'm not coding, I can be found running, cycling, or reading.
+When I'm not coding, I can be found cooking, running, or sewing.
 <br />
 <br />
 **Interested in hiring me? Please feel free to contact me at any of the links below!**
@@ -22,16 +22,6 @@ When I'm not coding, I can be found running, cycling, or reading.
 - **My LinkedIn:** [Katy Molloy | LinkedIn](https://www.linkedin.com/in/katy-molloy/)  
 - **Shoot me an email at** [katymolloydev@gmail.com](mailto:katymolloydev@gmail.com)
 
-## :bar_chart: GitHub Stats
-<table>
-  <tr>
-<!--     <td >
-      <img src="https://github-readme-stats.vercel.app/api?username=katymolloy&theme=transparent" />
-</td> -->
-    <td >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katymolloy&layout=compact&theme=transparent" />
-</td>
-  </tr>
-</table>
+
 
 
